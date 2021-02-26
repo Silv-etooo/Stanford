@@ -1,2 +1,4 @@
 # Stanford
-its obv
+
+CS 106B  
+CS 106A  

@@ -1,5 +1,5 @@
 Hey  
-This is teh assignments I have compleated from Code In Place 2020.
+This are the assignments I have compleated from Code In Place 2020.
   
 Changed my entire view on how to code and think about a problem.  
 Most importantly i learned to write code as I text that someone can read and understand.
